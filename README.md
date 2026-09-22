@@ -11,6 +11,7 @@ This project is a mobile fitness and wellness application designed to provide us
 * Clean and intuitive user interface
 * Easy navigation and user-friendly layouts
 * Fitness and wellness tracking
+* calorie and rest tracking
 * Responsive mobile interface
 * Consistent typography, spacing, and visual elements
 
@@ -26,4 +27,12 @@ UI/UX Designer
 ## Figma Design
 
 [View the full design in Figma]https://www.figma.com/design/44zdbL7jWvuJ3IW7qYApoy/HEALTH-TRACKER-APP?node-id=0-1&t=xpTTNb2ZhXYQ5AUB-1
+
+
+## App Screenshots
+
+![Exercise Screen](exercise.png)
+![Meditation Screen](meditation.png)
+![Calories Screen](new%20calories.png)
+![Dashboard Screen](new%20dashboard.png)
  
