@@ -15,6 +15,18 @@ This project is a mobile fitness and wellness application designed to provide us
 * Responsive mobile interface
 * Consistent typography, spacing, and visual elements
 
+## Key Features
+
+- Fitness activity tracking
+- Meditation and wellness support
+- Calorie tracking
+- Personalized dashboard
+- Clean and intuitive mobile interface
+
+## Design Process
+
+The design process focused on creating a simple, engaging, and user-friendly wellness experience, with emphasis on clear navigation, accessibility, and consistent visual design.
+
 ## Tools
 
 * Figma
